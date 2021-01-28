@@ -1,0 +1,26 @@
+{
+  "name": "bestbuy-photo-gallery-proxy",
+  "version": "1.0.0",
+  "description": "reverse proxy for BigBrain's bestbuy UI clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js",
+    "start:dev": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrsjo3-bigbrain/bestbuy-photo-gallery-proxy.git"
+  },
+  "author": "Hayley Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrsjo3-bigbrain/bestbuy-photo-gallery-proxy/issues"
+  },
+  "homepage": "https://github.com/hrsjo3-bigbrain/bestbuy-photo-gallery-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "flexbox": "0.0.3",
+    "grid": "^3.3.7"
+  }
+}

@@ -1,0 +1,39 @@
+/* .grid-container {
+
+} */
+
+.Header-photo {
+  /* grid-area: Header-photo; */
+}
+
+.Main-Photo-Gallery {
+  /* grid-area: Main-Photo-Gallery; */
+  /* padding-left: 50px; */
+}
+
+.Product-Details {
+  /* grid-area: Product-Details; */
+  display: flex;
+  justify-content: space-evenly;
+  max-height: 906px;
+}
+
+.price-info {
+  /* padding-left: 50px; */
+  max-width: 360px;
+}
+
+.carousel-photo {
+  /* grid-area: carousel-photo; */
+  /* padding-left: 50px; */
+  border-left: 2px solid lightgrey;
+}
+
+.Product-Drop-Downs {
+  /* grid-area: Product-Drop-Downs; */
+  align-items: center;
+}
+
+.Footer-photo {
+  /* grid-area: Footer-photo; */
+}
