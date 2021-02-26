@@ -1,2 +1,2 @@
-# bestbuy-photo-gallery-proxy
+# betterbuy-photo-gallery-proxy
 proxy for photo gallery module
